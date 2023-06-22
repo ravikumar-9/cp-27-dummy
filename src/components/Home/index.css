@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.home-section-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.home-page-details {
+  width: 40%;
+  padding: 14px;
+  margin-top: 24px;
+  margin-left: 24px;
+  padding: 20px;
+}
+.main-heading {
+  font-weight: bold;
+  font-size: 34px;
+  font-family: 'roboto';
+  color: #1e293b;
+  padding-left: 14px;
+}
+.description {
+  font-size: 17px;
+  font-family: 'roboto';
+  color: #475569;
+  padding: 14px;
+}
+.shop-now-button {
+  height: 34px;
+  width: 130px;
+  border: none;
+  background-color: #0967d2;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+.home-img {
+  width: 90%;
+}
